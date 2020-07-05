@@ -1,0 +1,14 @@
+.idea
+/.htaccess
+/bitrix
+/upload
+/local/templates/.default/components/bitrix/main.feedback
+/*.txt
+/*.html
+~*.php
+*.log
+*.xml
+/*.sql
+Thumbs.db
+.DS_Store
+._.DS_Store
